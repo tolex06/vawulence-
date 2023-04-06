@@ -1,14 +1,13 @@
 {
     "ownerNumber": ["2348160837300@s.whatsapp.net"],
     "ownerName": "farooq",
-    "instagram" : "",
     "botName": "vawulence",
     "footer": "vawulence",
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
     "pathimg": "./Haruka.jpg",
     "BotKey": "VdFlEL76",
-    "audio_di_bagian_menu": "./menu.mp3"
+    "audio_di_bagian_menu": "./menu.mp3",
     "auto_welcomeMsg": false,
     "auto_leaveMsg": false,
     "antiViewOnce": "false",
